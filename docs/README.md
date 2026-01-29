@@ -25,6 +25,12 @@ Core **personas and roles** drive collaboration: the **Project Manager** coordin
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — Post-project learning and action items
 - [Roles & Personas](octoacme-roles-and-personas.md) — Detailed role definitions and responsibilities
 
+## Templates & Tools
+
+- [Role Responsibility Matrix (RACI)](templates/role-responsibility-matrix.md) — Clarifies ownership for key project activities
+- [Onboarding Checklist](templates/onboarding-checklist.md) — Helps new team members ramp up effectively
+- [Stakeholder Communication Matrix](templates/stakeholder-communication-matrix.md) — Defines communication cadence and responsibilities
+
 ## How to Use These Docs
 
 - Keep the Project Charter updated in the project repository

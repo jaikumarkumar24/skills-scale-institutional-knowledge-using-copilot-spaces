@@ -21,8 +21,11 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- PM coordinates communication with input from Product Owner
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- UX/UI Designer shares design decisions and rationale with stakeholders
+- DevOps Engineer communicates infrastructure changes and deployment schedules
 
 ## Communication Templates
 Weekly Status Template:
@@ -38,5 +41,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level -> Scrum Master -> PM -> Product Lead -> Sponsor
+- Scrum Master removes blockers and coordinates with PM for escalations
+- For security incidents, DevOps Engineer follows the security incident runbook and notifies Security on-call
+- QA Lead escalates quality risks that may impact release timeline

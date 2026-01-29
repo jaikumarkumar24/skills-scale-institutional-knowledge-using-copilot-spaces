@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (see [Stakeholder Communication Matrix](templates/stakeholder-communication-matrix.md))
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignments (see [Role Responsibility Matrix](templates/role-responsibility-matrix.md))
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Product Owner:
+  - Scrum Master:
+  - Developers:
+  - UX/UI Designer:
+  - QA Lead:
+  - DevOps Engineer:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
