@@ -18,7 +18,7 @@ This matrix clarifies who is Responsible, Accountable, Consulted, and Informed (
 | Define problem statement | C | A | R | I | C | C | I | I | C |
 | Approve project charter | A | R | C | I | I | I | I | I | C |
 | Identify stakeholders | R | A | C | I | I | I | I | I | I |
-| Set high-level timeline | A | C | I | C | C | C | C | R/C | I |
+| Set high-level timeline | A | C | I | C | C | C | C | C | I |
 
 ---
 
@@ -27,13 +27,13 @@ This matrix clarifies who is Responsible, Accountable, Consulted, and Informed (
 | Activity | PM | PdM | Product Owner | Scrum Master | Developers | UX/UI Designer | QA Lead | DevOps Engineer | Stakeholders |
 |----------|----|----|---------------|--------------|------------|----------------|---------|-----------------|--------------|
 | Facilitate kickoff | R | C | C | R | I | I | I | I | I |
-| Prioritize backlog | C | C | A/R | C | C | C | C | I | I |
+| Prioritize backlog | C | C | A | C | C | C | C | I | I |
 | Estimate work | C | I | C | C | R | R | R | R | I |
-| Define DoD | C | C | C | R | R | C | A/R | C | I |
+| Define DoD | C | C | C | R | R | C | A | C | I |
 | Identify dependencies | R | C | C | C | C | C | C | R | I |
-| Create release plan | A/R | C | C | C | C | C | C | C | I |
-| Design test strategy | C | I | C | C | C | C | A/R | C | I |
-| Plan infrastructure | C | I | I | C | C | I | C | A/R | I |
+| Create release plan | A | C | C | C | C | C | C | C | I |
+| Design test strategy | C | I | C | C | C | C | A | C | I |
+| Plan infrastructure | C | I | I | C | C | I | C | A | I |
 
 ---
 
@@ -41,15 +41,15 @@ This matrix clarifies who is Responsible, Accountable, Consulted, and Informed (
 
 | Activity | PM | PdM | Product Owner | Scrum Master | Developers | UX/UI Designer | QA Lead | DevOps Engineer | Stakeholders |
 |----------|----|----|---------------|--------------|------------|----------------|---------|-----------------|--------------|
-| Facilitate daily standup | I | I | C | A/R | R | R | R | R | I |
-| Implement features | I | I | C | C | A/R | C | C | C | I |
-| Design UI/UX | I | C | C | C | C | A/R | I | I | I |
-| Review & approve PRs | I | I | I | I | A/R | C | C | C | I |
-| Execute tests | I | I | I | C | C | C | A/R | C | I |
-| Manage CI/CD | I | I | I | C | C | I | C | A/R | I |
-| Track progress | A/R | C | C | R | C | C | C | C | I |
-| Triage blockers | C | C | C | A/R | R | R | R | R | I |
-| Update stakeholders | A/R | C | C | C | I | I | I | I | I |
+| Facilitate daily standup | I | I | C | A | R | R | R | R | I |
+| Implement features | I | I | C | C | A | C | C | C | I |
+| Design UI/UX | I | C | C | C | C | A | I | I | I |
+| Review & approve PRs | I | I | I | I | A | C | C | C | I |
+| Execute tests | I | I | I | C | C | C | A | C | I |
+| Manage CI/CD | I | I | I | C | C | I | C | A | I |
+| Track progress | A | C | C | R | C | C | C | C | I |
+| Triage blockers | C | C | C | A | R | R | R | R | I |
+| Update stakeholders | A | C | C | C | I | I | I | I | I |
 
 ---
 
@@ -57,13 +57,13 @@ This matrix clarifies who is Responsible, Accountable, Consulted, and Informed (
 
 | Activity | PM | PdM | Product Owner | Scrum Master | Developers | UX/UI Designer | QA Lead | DevOps Engineer | Stakeholders |
 |----------|----|----|---------------|--------------|------------|----------------|---------|-----------------|--------------|
-| Validate acceptance criteria | C | C | A/R | I | C | C | R | I | I |
-| Execute smoke tests | C | I | C | C | C | C | A/R | C | I |
+| Validate acceptance criteria | C | C | A | I | C | C | R | I | I |
+| Execute smoke tests | C | I | C | C | C | C | A | C | I |
 | Approve release | A | C | C | I | I | I | C | C | I |
-| Deploy to production | C | I | I | C | C | I | C | A/R | I |
+| Deploy to production | C | I | I | C | C | I | C | A | I |
 | Verify deployment | C | I | C | C | C | C | R | R | I |
-| Draft release notes | A/R | C | C | I | C | I | C | C | I |
-| Announce release | A/R | C | C | I | I | I | I | I | I |
+| Draft release notes | A | C | C | I | C | I | C | C | I |
+| Announce release | A | C | C | I | I | I | I | I | I |
 
 ---
 
@@ -71,7 +71,7 @@ This matrix clarifies who is Responsible, Accountable, Consulted, and Informed (
 
 | Activity | PM | PdM | Product Owner | Scrum Master | Developers | UX/UI Designer | QA Lead | DevOps Engineer | Stakeholders |
 |----------|----|----|---------------|--------------|------------|----------------|---------|-----------------|--------------|
-| Facilitate retrospective | C | C | C | A/R | C | C | C | C | I |
+| Facilitate retrospective | C | C | C | A | C | C | C | C | I |
 | Contribute learnings | C | C | C | C | R | R | R | R | C |
 | Define action items | C | C | C | R | C | C | C | C | I |
 | Track improvements | R | C | C | C | C | C | C | C | I |
