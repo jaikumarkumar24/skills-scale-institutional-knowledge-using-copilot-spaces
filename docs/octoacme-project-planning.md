@@ -9,12 +9,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+1. **Kickoff meeting** with stakeholders and delivery team (facilitated by PM and Scrum Master)
+2. **Create prioritized backlog** with acceptance criteria (led by Product Owner with input from Product Manager)
+3. **Estimate scope** (T-shirt sizing or story points) - team activity including Developers, QA Lead, UX/UI Designer
+4. **Define Definition of Done (DoD)** - collaborative effort with QA Lead ensuring quality standards
+5. **Identify dependencies and integration points** - PM coordinates with DevOps Engineer on infrastructure needs
+6. **Create release plan and milestone map** - PM with input from DevOps Engineer on deployment strategy
 
 ## Backlog Item Template
 - Title:
@@ -26,9 +26,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Related docs/links:
 
 ## Sprint / Iteration Planning
-- Timebox planning to agreed sprint length
-- Pull items that meet DoD and have clear acceptance criteria
-- Ensure team capacity is respected
+- Timebox planning to agreed sprint length (facilitated by Scrum Master)
+- Product Owner presents prioritized backlog items
+- Team pulls items that meet DoD and have clear acceptance criteria
+- UX/UI Designer presents design work ready for implementation
+- QA Lead reviews testability and acceptance criteria
+- Ensure team capacity is respected (monitored by Scrum Master)
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
